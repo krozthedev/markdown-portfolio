@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Github
+* Coding
+* Lifting heavy things
+* Comic books
