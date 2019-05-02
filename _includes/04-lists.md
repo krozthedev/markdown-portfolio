@@ -1,4 +1,4 @@
 * Github
 * Coding
 * Lifting heavy things
-* Comic books
+* Reading comic books
